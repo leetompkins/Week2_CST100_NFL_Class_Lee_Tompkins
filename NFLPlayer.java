@@ -70,6 +70,18 @@ public class NFLPlayer {
 		// Get player age 
 		return age;
 	}
+    public double getAverageTDPerYear(){
+        // Get Average Touchdowns 
+        return (careerTD / yearsPro);
+    }
+    public double getAverageTacklesPerYear() {
+        // Returns average tackles per year
+        return (careerTD / yearsPro);
+    }
+    public double getAverageYardsPerYear(){
+        // Returns average yards per year 
+        return (careerYards / yearsPro);
+    }
 	
 	// Constructors 
 	
