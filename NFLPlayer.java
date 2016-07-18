@@ -1,4 +1,5 @@
-/* NFL Player Class, A class for the creation of NFL Players 
+/* Updated with new getters July 17 2016
+ * NFL Player Class, A class for the creation of NFL Players 
  * Milestone 2 Assignment 
  * Week2 CST100
  * File: NFLPlayer.java
